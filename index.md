@@ -1,13 +1,2 @@
-# How to save anime to camera roll ?
-
-1. Login to animemaker
-2. Upload your anime
-3. Access to anime page
-4. Scroll down and tap "Save anime to Camera Roll"
-
-![Save to camera roll](https://raw.githubusercontent.com/kenmaz/animemaker-help/master/save-to-cameraroll.png)
-
-# Forget password ?
-Use password reminder.
-
-![Save to camera roll](https://raw.githubusercontent.com/kenmaz/animemaker-help/master/password-reminder.png)
+- [How to save anime to camera roll ?](https://kenmaz.github.io/animemaker-help/save-to-cameraroll)
+- [Forget password ?](https://kenmaz.github.io/animemaker-help/password-reminder)
