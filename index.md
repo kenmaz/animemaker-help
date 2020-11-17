@@ -1,3 +1,3 @@
 - [How to save anime to camera roll ?](https://kenmaz.github.io/animemaker-help/save-to-cameraroll)
 - [Forget password ?](https://kenmaz.github.io/animemaker-help/password-reminder)
-- [Restore In App Purchase Item](https://kenmaz.github.io/animemaker-help/iap-restore)
+- [In App Purchase](https://kenmaz.github.io/animemaker-help/iap)
