@@ -3,6 +3,7 @@
 - [Forget password ?](https://kenmaz.github.io/animemaker-help/password-reminder)
 - [In App Purchase](https://kenmaz.github.io/animemaker-help/iap)
 - [How to get beta version of the app?](https://support.google.com/googleplay/answer/7003180?hl=en)
+- [How to send support mail?](https://kenmaz.github.io/animemaker-help/support_mail)
 
 ## Terms of use
 - [EN](https://anime.kenmaz.net/term_en.html)/[JP](https://anime.kenmaz.net/term_ja.html)
