@@ -1,6 +1,6 @@
 # How to send a support mail?
 ## iOS
-+ Set up iOS's standard Mail.app
++ Set up iOS's standard Mail.app in advance
 + Launch AnimeMaker app
 + Tap mypage tab
 + Tap Gear shaped button on the header
