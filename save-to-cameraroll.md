@@ -1,9 +1,7 @@
-# How to save anime to camera roll ?
+# How to download animation as mp4?
 
-1. Login to animemaker
-2. Upload your anime
-3. Access to anime page
-4. Scroll down and tap "Save anime to Camera Roll"
+1. Login to AnimeMaker
+2. Access to the animation page
+4. Scroll down and tap "Download" button
 
-![Save to camera roll](https://raw.githubusercontent.com/kenmaz/animemaker-help/master/save-to-cameraroll.png)
-
+<img width=320 src=https://user-images.githubusercontent.com/46153/140648549-c806a09a-5848-4044-b511-869701501440.png>
