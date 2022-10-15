@@ -6,4 +6,5 @@
 - [How to send support mail?](https://kenmaz.github.io/animemaker-help/support_mail)
 
 ## Terms of use
-- [EN](https://anime.kenmaz.net/term_en.html)/[JP](https://anime.kenmaz.net/term_ja.html)
+- [English](https://anime.kenmaz.net/term_en.html) / [Japanese](https://anime.kenmaz.net/term_ja.html)
+- [Policy for User Generated Content](https://kenmaz.github.io/animemaker-help/ugc) 
