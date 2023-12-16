@@ -4,6 +4,7 @@
 - [In App Purchase](https://kenmaz.github.io/animemaker-help/iap)
 - [How to get beta version of the app?](https://support.google.com/googleplay/answer/7003180?hl=en)
 - [How to send support mail?](https://kenmaz.github.io/animemaker-help/support_mail)
+- [How to share your anime?](https://kenmaz.github.io/animemaker-help/share)
 
 ## Terms of use
 - [English](https://anime.kenmaz.net/term_en.html) / [Japanese](https://anime.kenmaz.net/term_ja.html)
