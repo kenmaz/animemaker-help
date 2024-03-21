@@ -5,6 +5,7 @@
 - [How to get beta version of the app?](https://support.google.com/googleplay/answer/7003180?hl=en)
 - [How to send support mail?](https://kenmaz.github.io/animemaker-help/support_mail)
 - [How to share your anime?](#how-to-share-your-anime)
+- [How to delete your Anime Maker Account?](#delete-account)
 
 ## How to share your anime?
 - iOS
